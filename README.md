@@ -1,2 +1,2 @@
-# wassup01
-ESTSoft Wassup Exercise
+# ESTSoft Wassup01 Exercise
+Author : Young Jun Jung
